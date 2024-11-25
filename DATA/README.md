@@ -36,6 +36,13 @@ Ce sous-dossier contient les **données brutes** récupérées directement depui
 
 ---
 
+**Note sur la Taille des Données:** 
+En raison de la taille importante des données, qui couvrent la période de 2008 à 2023, seules des parties échantillons des données ont été fournies dans ce projet. Ces échantillons couvrent des périodes représentatives, assurant ainsi la pertinence et l'exactitude des analyses sans inclure l'intégralité du dataset.
+
+Pour accéder aux données complètes, vous pouvez vous référer à la source originale de la Bourse de Casablanca ou me contacter pour plus d'informations.
+
+---
+
 ### **2. cleaned/**
 Ce sous-dossier contient les données après le **nettoyage**, étape essentielle pour garantir leur qualité et leur pertinence pour l'analyse.
 
