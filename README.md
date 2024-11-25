@@ -11,15 +11,15 @@ Le **MASI** est un indice boursier qui reflète la performance globale des entre
 Les marchés financiers sont souvent caractérisés par une forte volatilité, rendant les décisions d'investissement particulièrement complexes et risquées. L’indice **MASI**, qui regroupe les entreprises cotées à la **Bourse de Casablanca**, reflète la performance économique du pays. Cependant, cet indice est également influencé par une multitude de facteurs économiques, géopolitiques et de marchés mondiaux, ce qui contribue à des fluctuations importantes dans ses valeurs.
 
 La **problématique de recherche** que ce projet cherche à résoudre est la suivante :
-> **Comment prédire la volatilité de l’indice MASI afin de mieux anticiper les risques financiers et d’offrir des stratégies d’investissement plus adaptées ?**
+> **Comment les techniques d'intelligence artificielle peuvent-elles améliorer la prédiction des risques financiers sur le marché boursier marocain ?**
 
 En d'autres termes, cette étude cherche à répondre à la question de savoir si l’utilisation de **modèles d'apprentissage automatique**, comme **XGBoost**, peut apporter une meilleure précision dans la prévision des périodes de forte volatilité de l'indice MASI par rapport aux méthodes traditionnelles de gestion des risques. La réponse à cette question pourrait transformer la manière dont les investisseurs évaluent et réagissent à la volatilité des marchés marocains.
 
 Les objectifs de cette recherche sont :
 1. Développer un modèle prédictif de volatilité basé sur des données historiques de l’indice MASI.
-2. Analyser l’impact des indicateurs techniques comme **RSI**, **ATR**, et **Moyenne Mobile** dans l’amélioration des prédictions.
-3. Comparer les performances du modèle d'apprentissage automatique avec les méthodes classiques de gestion des risques financiers.
-
+2. Évaluer l'efficacité de XGBoost pour prédire la volatilité de l'indice MASI.
+3. Analyser l’impact des indicateurs techniques comme **RSI**, **ATR**, et **Moyenne Mobile** dans l’amélioration des prédictions.
+4. Comparer les performances du modèle d'apprentissage automatique avec les méthodes classiques de gestion des risques financiers.
 
 
 Les hypothèses principales de la recherche sont :
