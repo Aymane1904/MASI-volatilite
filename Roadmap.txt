@@ -1,0 +1,33 @@
+MASI-volatilite/
+├── README.md                # Documentation générale du projet
+├── requirements.txt         # Dépendances Python (les bibliothèques nécessaires)
+├── data/                    # Dossier contenant les données
+│   ├── README.md            # Explication des fichiers dans ce dossier
+│   ├── raw/                 # Données brutes (échantillon)
+│   │   ├── raw_data_sample.xlsx    # Échantillon des données brutes
+│   ├── cleaned/             # Données nettoyées (échantillon)
+│   │   ├── cleaned_data_sample.xlsx# Données après nettoyage (échantillon)
+│   ├── transformed/         # Données transformées (échantillon)
+│       ├── transformed_data_sample.xlsx
+│   ├── data_with_indicators_sample.xlsx  # Échantillon des données avec indicateurs ajoutés
+├── modeling/                # Préparation à la modélisation
+│   ├── README.md            # Explication des fichiers dans ce dossier
+│   ├── train_data_sample.xlsx      # Données d'entraînement (échantillon)
+│   ├── test_data_sample.xlsx       # Données de test (échantillon)
+│   ├── xgboost/             # Modèle et résultats XGBoost
+│       ├── xgboost_model.pkl    # Modèle XGBoost sauvegardé
+│       ├── xgboost_model_optimized.pkl   # Modèle XGBoost optimisé sauvegardé
+│       ├── evaluation_results.txt  # Résumé des performances
+├── results/                 # Graphiques et analyses
+│   ├── README.md            # Explication des résultats
+│   ├── Residual_Curve.jpg      # Residual curve plot
+│   ├── Residual_Distribution.jpg  # Residual distribution plot
+│   ├── Cross_Validation_Scores_R2.jpg          # Cross-validation R² scores plot
+├── scripts/                 # Scripts Python
+│   ├── data_preparation.py  # Script pour préparer les données
+│   ├── data_processing.py   # Script pour le traitement des données
+│   ├── final_processing.py  # Script pour les transformations finales des données
+│   ├── modeling_xgboost.py  # Script pour entraîner et évaluer XGBoost
+│   ├── xgboost_modeling.py  # Script spécifique pour l'entraînement du modèle XGBoost
+│   ├── xgboost_model_optimized.pkl 
+├── hyperparameters_tuning.md  # Détails sur le réglage des hyperparamètres

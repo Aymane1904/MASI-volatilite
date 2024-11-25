@@ -1,0 +1,8 @@
+# Requirements for data processing, model training, and evaluation
+
+pandas==1.5.3          # Library for data manipulation and analysis
+xgboost==1.7.4         # XGBoost library for gradient boosting model
+scikit-learn==1.0.2    # Scikit-learn for machine learning algorithms and model evaluation
+joblib==1.1.0          # Joblib for model serialization (saving/loading)
+openpyxl==3.0.10       # For working with Excel files (reading and writing .xlsx)
+matplotlib==3.5.1      # For generating visualizations and plots (optional)
