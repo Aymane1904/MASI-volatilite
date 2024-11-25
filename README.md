@@ -2,7 +2,7 @@
 
 ## Contexte
 
-La volatilité des marchés financiers représente un risque majeur pour les investisseurs et les institutions financières, et prédire cette volatilité est essentiel pour une gestion optimale des risques. Ce projet s'inscrit dans un **Projet de Fin d'Études (PFE) de Master** et a pour objectif principal de prédire la volatilité de l'indice **MASI** (Moroccan All Shares Index) de la **Bourse de Casablanca** en utilisant des techniques avancées d'**intelligence artificielle**. L'algorithme **XGBoost** est particulièrement utilisé pour sa capacité à traiter des volumes massifs de données et à s'adapter aux fluctuations complexes du marché.
+La volatilité des marchés financiers représente un risque majeur pour les investisseurs et les institutions financières, et prédire cette volatilité est essentiel pour une gestion optimale des risques. Ce projet a pour objectif principal de prédire la volatilité de l'indice **MASI** (Moroccan All Shares Index) de la **Bourse de Casablanca** en utilisant des techniques avancées de **Machine Learning**. L'algorithme **XGBoost** est particulièrement utilisé pour sa capacité à traiter des volumes massifs de données et à s'adapter aux fluctuations complexes du marché.
 
 Le **MASI** est un indice boursier qui reflète la performance globale des entreprises cotées en bourse à Casablanca. En raison de sa sensibilité aux influences économiques mondiales, nationales, ainsi qu’aux fluctuations des matières premières, la volatilité de cet indice constitue un défi important pour les investisseurs.
 
